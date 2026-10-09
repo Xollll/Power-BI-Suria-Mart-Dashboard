@@ -15,6 +15,19 @@ The source was an Excel workbook with 8 sheets: sales, top-ups, customers, app d
 - Combined two product tables into one.
 - Derived customer age groups from the demographic field.
 
+## Files
+- `Suria_Mart_Final_Report.pbix`: the Power BI report
+- `Suria_Mart_Dataset_vF.xlsx`: the source dataset
+- `screenshots/`: images of each dashboard page
+
 ## Tools
 Power BI, Power Query, Excel
 
+### Overview
+![Overview page](screenshots/Overview.png)
+
+### Sales
+![Sales page](screenshots/Sales%20performance.png)
+
+### App
+![App page](screenshots/App%20performance.png)
